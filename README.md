@@ -9,6 +9,6 @@ all my project with CSS and little JavaScript.
 
 object-fit: cover; ----> to fit item as per container size     [item + container]
 
-display:flex;  --->    [container]
+display:flex;  --->    [container]      (all comes on same level)
 align-items: center; --> vertical center     [container]
 justify-content: center; horizental center   [container]
